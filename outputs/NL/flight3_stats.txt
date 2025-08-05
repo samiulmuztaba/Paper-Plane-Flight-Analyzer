@@ -1,0 +1,3 @@
+Distance: 7369.96 pixels
+Airtime: 5.40 seconds
+Speed: 1364.81 pixels/second
